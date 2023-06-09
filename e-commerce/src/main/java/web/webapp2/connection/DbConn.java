@@ -13,8 +13,9 @@ public class DbConn {
                 DriverManager.registerDriver(mysql);
                 conn = DriverManager.getConnection(
                         "jdbc:mysql://localhost:3306/zara_store",
-                        "myuser",
-                        "dechasa1234");
+                        DbData.username,
+                        DbData.password
+                        );
                 System.out.println("DbConn.java: Database connection established");
             } catch (Exception e) {
                 e.getMessage();
