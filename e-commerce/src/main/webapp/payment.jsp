@@ -74,29 +74,8 @@
                         <button type="submit" class="btn btn-primary">Submit</button>
                   
                 </div>
-                <div class="form-container" id="form2">
-                    <!-- Form 2 HTML code -->
-                    <div class="form-group">
-                        <label for="accountNumber">Account Tele Birr</label>
-                        <input type="text" class="form-control" id="accountNumber" aria-describedby="emailHelp" placeholder="Enter Account Number">
-                    </div>
-                    <div class="form-group">
-                        <label for="CBEPassword">Password</label>
-                        <input type="password" class="form-control" id="CBEPassword" placeholder="Enter Password">
-                    </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
-                </div>
-                <div class="form-container" id="form3">
-                    <div class="form-group">
-                        <label for="accountNumber">Account Amole</label>
-                        <input type="text" class="form-control" id="accountNumber" aria-describedby="emailHelp" placeholder="Enter Account Number">
-                    </div>
-                    <div class="form-group">
-                        <label for="CBEPassword">Password</label>
-                        <input type="password" class="form-control" id="CBEPassword" placeholder="Enter Password">
-                    </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
-                </div>
+
+
             </div>
         </div>
     </div>
