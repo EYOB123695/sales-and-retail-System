@@ -50,7 +50,6 @@
                     System.out.println("index.jsp: list is not empty.");
                     for (Product p: products) { %>
 
-
             <div class="col-md-3 my-3">
                 <!-- bootstrap default card-->
                 <div class="card w-100" style="width: 18rem;">
